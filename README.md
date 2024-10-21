@@ -79,3 +79,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 - This project uses the [Streamlit](https://streamlit.io/) library for building the web interface.
 - The machine learning components are powered by [scikit-learn](https://scikit-learn.org/).
+- Team: Inesh Tickoo, Mostafa Anwari, and Nick Davis 
