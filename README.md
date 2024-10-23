@@ -2,6 +2,10 @@
 
 This project is a music recommendation system built using Streamlit and machine learning techniques. It leverages matrix factorization (SVD) to recommend songs based on user input.
 
+## Live Demo
+
+Check out the live demo of the app [here](https://spotalike.streamlit.app).
+
 ## Features
 
 - **Load and Preprocess Data**: The system loads datasets containing song features and genres, preprocesses them by selecting relevant features, one-hot encoding genres, and standardizing feature values.
@@ -14,7 +18,7 @@ This project is a music recommendation system built using Streamlit and machine 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/9nesh/spotalike
    cd <repository-directory>
    ```
 
@@ -71,9 +75,9 @@ This project is a music recommendation system built using Streamlit and machine 
     endLine: 178
     ```
 
-## License
+## Live Demo
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+Check out the live demo of the app [here](https://spotalike.streamlit.app).
 
 ## Acknowledgments
 
