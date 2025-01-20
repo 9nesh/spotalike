@@ -227,10 +227,11 @@ streamlit run app.py
 
 ---
 
-## Authors ✍️
+## Contributors ✍️
 
-- **Your Name**
-- **Contributors:** [Add names if applicable]
+- **Inesh Tickoo**
+- **Mostafa Anwari**
+- **Nick Davis**
 
 ---
 
